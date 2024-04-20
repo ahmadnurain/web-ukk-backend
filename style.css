@@ -1,0 +1,6 @@
+.like-button {
+  border: none; /* Menghilangkan border */
+  background: none; /* Menghilangkan latar belakang */
+  padding: 0; /* Menghilangkan padding */
+  cursor: pointer; /* Menjadikan kursor menjadi pointer saat diarahkan ke tombol */
+}
